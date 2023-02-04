@@ -1,0 +1,110 @@
+body{
+    margin: 0px;
+    text-align: center;
+    font-family: 'Anton', sans-serif;
+    font-size: 1.5em;
+    color: #40514E;
+}
+h1{
+    margin-top: 0px,auto,0px,auto ;
+    font-family: 'Dancing Script', cursive;
+    font-size: 5em;
+    color:aqua;
+}
+hr{
+    border: dotted #8c8f8f 6px;
+    border-bottom: none;
+    width: 8%;
+
+}
+.top-container{
+    background-color: rgb(0, 192, 192);
+    padding: 100px;
+}
+.mid-container{
+    border-radius: 100%;
+    margin-top: 2em;
+
+}
+.bottom-container{
+
+}
+.pro{
+    text-decoration: underline;
+}
+.top-cloud{
+    position:absolute;
+    right: 300px;
+    top: 50px;
+}
+.bottom-cloud{
+    position: absolute;
+}
+.skill1{
+    width: 15%;
+   
+}
+.profile1{
+    display:inline-block;
+    position:relative;
+    width: 200px;
+    height:200px;
+    overflow:hidden;
+    border-radius: 50%;
+    margin-top: 2em;
+    }
+.profile1 img{
+    width:auto;
+    height:100%;
+    margin-left:-50%;
+}
+.skill2{
+    width: 200px;
+    height: 200px;
+}
+.programmer{
+    font-size: 2.5em;
+    color: aqua;
+    font-weight: normal;
+}
+h2{
+    color: #11999E;
+}
+h3{
+    color: #11999E;
+}
+.bottom-container{
+    background-color:#66BFBF ;
+    height: 5em;
+    margin-top: 2em;
+    font-family:Arial, Helvetica, sans-serif;
+    padding-top: 1.5em;
+    color: #EAF6F6;
+    font-size: medium;
+    padding: 10px;
+}
+button{
+    background-color: #66BFBF;
+    border: 10px;
+    font-size: medium;
+    border-radius: 20px;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 0;
+    font-color: 
+}
+btn{
+    color: #EAF6F6;
+}
+a{
+    color: aliceblue;
+    margin:10px 20px;
+    text-decoration: none;
+}
+a:hover{
+    color: #000b0b;
+}
+.copyright{
+    color: rgb(4, 97, 97);
+    padding-top: 20px;
+}
